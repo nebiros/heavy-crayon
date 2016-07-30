@@ -1,0 +1,6 @@
+framework module Pods_HeavyCrayon {
+  umbrella header "Pods-HeavyCrayon-umbrella.h"
+
+  export *
+  module * { export * }
+}

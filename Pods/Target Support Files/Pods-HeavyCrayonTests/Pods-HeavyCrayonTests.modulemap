@@ -1,0 +1,6 @@
+framework module Pods_HeavyCrayonTests {
+  umbrella header "Pods-HeavyCrayonTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
